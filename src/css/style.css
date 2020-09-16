@@ -323,7 +323,7 @@ footer{
         right: 0;
     }
 }
-@media only screen and (min-width: 1024px){
+/* @media only screen and (min-width: 1024px){
     .row{
         display: flex;
         flex-wrap: wrap;
@@ -359,4 +359,4 @@ footer{
         font-size: var(--text-lg);
         line-height: 31px;
     }
-}
+} */
